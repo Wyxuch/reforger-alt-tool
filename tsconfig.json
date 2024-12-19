@@ -23,6 +23,7 @@
     "noUnusedParameters": true,
   },
   "include": [
+    "src/global.d.ts",
     "**/*.ts",
     "**/*.tsx",
     "types",
